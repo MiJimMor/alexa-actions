@@ -21,7 +21,21 @@
         },
         {
           "name": "AMAZON.YesIntent",
-          "samples": ["si"]
+          "samples": [
+            "okey",
+            "ok",
+            "genial",
+            "bueno vale",
+            "bueno",
+            "venga",
+            "venga vale",
+            "vale",
+            "perfecto",
+            "perfect",
+            "si gracias",
+            "si",
+            "yes"            
+          ]
         },
         {
           "name": "AMAZON.NoIntent",
